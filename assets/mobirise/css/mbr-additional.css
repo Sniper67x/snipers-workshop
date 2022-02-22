@@ -1150,6 +1150,12 @@ a {
     left: -1rem;
   }
 }
+.cid-sY8nzP7XC2 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #232323;
+  overflow: hidden;
+}
 .cid-sXWiSiR8a4 .navbar-dropdown {
   position: relative !important;
 }
@@ -1617,4 +1623,10 @@ a {
 }
 .cid-sXWl8CbnYw .mbr-text {
   color: #555555;
+}
+.cid-sY8nzP7XC2 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #232323;
+  overflow: hidden;
 }
